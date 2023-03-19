@@ -5,8 +5,7 @@ A static application built with java in android studio, showing some of my schoo
 - Android 5 >=
 
 ## UI Preview
-![UI Preview](https://ibb.co/Hq5LJ4q)
-
+https://ibb.co/Hq5LJ4q
 
 [![Lang CS](https://img.shields.io/badge/lang-java-orange)]()
 [![Lang CS](https://img.shields.io/badge/app-android-brightgreen)]()
